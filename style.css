@@ -1,3 +1,17 @@
 #form-field{
     text-align: center;
 }
+
+#input-field:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+#input-field{
+    display: flex;
+    flex: 100%;
+    margin-top: 5%;
+}
+
+#btn{
+    background-color: #f8f9fa;
+}
