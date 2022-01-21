@@ -3,7 +3,12 @@
 }
 
 #input-field:hover{
+    border-radius: 100px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.form-control{
+    border-radius: 100px;
 }
 
 #input-field{
@@ -14,4 +19,16 @@
 
 #btn{
     background-color: #f8f9fa;
+}
+
+.button{
+    background: #010101;
+    border-radius: 100px;
+    font-style: normal;
+    font-family: Karla;
+    font-weight: regular;
+    border: solid;
+    color: #f8f9fa;
+    width: 180px;
+    height: 40px;
 }
